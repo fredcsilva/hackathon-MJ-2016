@@ -5,3 +5,5 @@ Neste repositório estão armazenados arquivos referentes a um app desenvolvido 
 Este aplicativo foi desenvolvido em AngularJS e Ionic.
 É apenas um protótipo que foi desenvolvido em poucos dias, exclusivamente, para esta hackathon e cujo objetivo principal era apresentar as funcionalidades da ideia, sem se preocupar muito com o visual ou com o desempenho.
 
+Este arquivo foi propositalmente alterado para ficar diferente do branch master.
+
